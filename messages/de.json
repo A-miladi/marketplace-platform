@@ -1,0 +1,401 @@
+{
+  "signin": {
+    "title": "Melden Sie sich bei Uniq Alpha an",
+    "googleButton": "Mit Google anmelden",
+    "emailButton": "Mit E-Mail oder Telefonnummer fortfahren",
+    "description": "oder",
+    "username": "Benutzername",
+    "password": "Passwort",
+    "signin": "Anmelden",
+    "signup": "Registrieren",
+    "haveAccount": "Sie haben noch kein Konto?",
+    "signinByEmail": "Mit E-Mail anmelden",
+    "SignIn": "Anmelden",
+    "email": "E-Mail",
+    "enterPassword": "Geben Sie Ihr Passwort ein.",
+    "requiredEmail": "E-Mail ist erforderlich",
+    "invalidEmail": "Ungültige E-Mail",
+    "minPassword": "Das Passwort muss mindestens 8 Zeichen lang sein",
+    "requiredPassword": "Nachname ist erforderlich",
+    "forgotPassword": "Passwort vergessen?",
+    "recaptchaRequired": "Bitte schließen Sie die reCAPTCHA-Überprüfung ab",
+    "recaptchaNotReady": "reCAPTCHA ist noch nicht bereit. Bitte versuchen Sie es erneut.",
+    "recaptchaError": "Bei der reCAPTCHA-Überprüfung ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut."
+  },
+  "signup": {
+    "title": "Registrieren Sie sich bei Uniq Alpha",
+    "firstName": "Vorname",
+    "lastName": "Nachname",
+    "requiredName": "Vorname ist erforderlich",
+    "requiredLastName": "Nachname ist erforderlich",
+    "requiredEmail": "E-Mail ist erforderlich",
+    "invalidEmail": "Ungültige E-Mail",
+    "minPassword": "Das Passwort muss mindestens 8 Zeichen lang sein",
+    "Email": "E-Mail",
+    "password": "Passwort",
+    "Privacy": "Ich stimme den UniqAlpha-Nutzungsbedingungen, der Datenschutzrichtlinie und den Standard-Benachrichtigungseinstellungen zu.",
+    "createAccount": "Konto erstellen",
+    "haveAccount": "Haben Sie bereits ein Konto?",
+    "signin": "Anmelden",
+    "emailButton": "Mit Google anmelden",
+    "ContinueWithEmailButton": "Mit E-Mail fortfahren",
+    "description": "Durch das Erstellen eines Kontos stimmen Sie unseren Nutzungsbedingungen, der Datenschutzrichtlinie und den Standard-Benachrichtigungseinstellungen zu.",
+    "uppercaseAndLowercaseLetters": "Beinhaltet Groß- und Kleinbuchstaben",
+    "IncludesNumber": "Beinhaltet eine Zahl",
+    "includeSpecialCharacters": "Beinhaltet Sonderzeichen (@,!,*,...)",
+    "requiredPassword": "Passwort ist erforderlich"
+  },
+  "forgotPassword": {
+    "title": "Passwort vergessen?",
+    "description": "Geben Sie die E-Mail-Adresse oder Telefonnummer ein, die Sie bei der Registrierung verwendet haben, und wir senden Ihnen Anweisungen zum Zurücksetzen Ihres Passworts.",
+    "security": "Aus Sicherheitsgründen speichern wir Ihr Passwort nicht. Seien Sie also versichert, dass wir Ihr Passwort niemals per E-Mail oder Telefonnummer senden werden.",
+    "email": "E-Mail",
+    "sendResetInstructions": "Anweisungen zum Zurücksetzen senden",
+    "invalidEmail": "Ungültige E-Mail",
+    "requiredEmail": "E-Mail ist erforderlich",
+    "request": "Anfrage zum Zurücksetzen des Passworts erfolgreich gesendet",
+    "back": "Zurück zur Startseite"
+  },
+  "newPassword": {
+    "title": "Neues Passwort",
+    "uppercaseAndLowercaseLetters": "Beinhaltet Groß- und Kleinbuchstaben",
+    "IncludesNumber": "Beinhaltet eine Zahl",
+    "eightCharacters": "Beinhaltet mindestens acht Zeichen",
+    "VerifyButton": "Bestätigen und eingeben",
+    "newPassword": "Neues Passwort",
+    "repeatNewPassword": "Neues Passwort wiederholen",
+    "minPassword": "Das Passwort muss mindestens 8 Zeichen lang sein",
+    "requiredPassword": "Passwort ist erforderlich",
+    "passwordsDontMatch": "Passwörter stimmen nicht überein",
+    "includeSpecialCharacters": "Beinhaltet Sonderzeichen (@,!,*,...)"
+  },
+  "otp": {
+    "subTitle": "Zugriffsverifizierung",
+    "title": "Geben Sie Ihren Bestätigungscode ein",
+    "enterYourCode": "Geben Sie den Code ein",
+    "resendCode": "Code erneut senden",
+    "signinButton": "Anmelden"
+  },
+
+  "HomePage": {
+    "title": "Hallo Welt!",
+    "about": "Zur Über-Seite gehen",
+    "FrequentlyAskedQuestions": "Häufig gestellte Fragen"
+  },
+  "AboutPage": {
+    "title": "Erfahren Sie mehr über Uniq Alpha",
+    "Introduction": "Bei UniqAlpha setzen wir uns dafür ein, Unternehmen mit hochwertigen Industriemaschinen zu verbinden. Unsere Plattform dient als kostenloser Online-Marktplatz, der es Ihnen ermöglicht, die benötigte Ausrüstung einfach zu finden und mit renommierten Verkäufern weltweit in Kontakt zu treten.",
+    "Categories": "Wir bieten eine breite Palette von Kategorien an, darunter Werkzeugmaschinen, Druck-, Test-, Labor- & medizinische Geräte, Bauwesen, Materialtransport und Landwirtschaft, um den verschiedenen Branchenanforderungen gerecht zu werden.",
+    "Team": "Unser Team besteht aus erfahrenen Fachleuten, die die einzigartigen Anforderungen unserer Kunden verstehen und eine sichere sowie effiziente Plattform für den Kauf und Verkauf von Industriemaschinen bereitstellen.",
+    "Mission": "Unsere Mission ist einfach: Den Kauf und Verkauf von Industriemaschinen für unsere Nutzer kostenlos zu ermöglichen.",
+    "NumberOfAds": "Anzahl der Anzeigen",
+    "Brands": "Marken",
+    "ClosedDeals": "Abgeschlossene Geschäfte"
+  },
+
+  "Header": {
+    "login": "Login / Registrieren",
+    "Account": "Mein Konto",
+    "Home": "Startseite",
+    "Advertisement": "Anzeige",
+    "Favorites": "Favoriten",
+    "profile": "Profil",
+    "search": "Suche",
+    "ManufacturerAndModel": "Name oder Beschreibung",
+    "CityStateOrCountry": "Stadt, Bundesland oder Land",
+    "Language": "Sprache",
+    "Category": "Kategorie",
+    "SellOnUniqAlpha": "Auf UniqAlpha verkaufen",
+    "Filter": "Filter"
+  },
+
+  "Hero": {
+    "BuildingTheFutureWith": "Die Zukunft aufbauen mit",
+    "IndustrialEquipment": "Industriemaschinen",
+    "Provide": "Wir bieten hochwertige Industriemaschinen",
+    "Help": "um Ihr Unternehmen wachsen und erfolgreich werden zu lassen."
+  },
+  "Categories": {
+    "Categories": "Kategorien"
+  },
+
+  "Advertisement": {
+    "Advertisement": "Anzeige",
+    "ViewAll": "Alle anzeigen"
+  },
+
+  "AboutUs": {
+    "About": "Über",
+    "Us": "Uns",
+    "LearnMore": "Mehr erfahren"
+  },
+
+  "ButtonText": {
+    "View": "Ansehen"
+  },
+
+  "Explore": {
+    "Sell": "Verkaufen Sie Ihre Maschinen",
+    "Fast": "Jetzt schnell inserieren",
+    "Explore": "Jetzt erkunden"
+  },
+
+  "Footer": {
+    "About": "Über uns",
+    "Contact": "Kontakt",
+    "Blog": "Blog",
+    "Testimonials": "Referenzen",
+    "Media": "Medien",
+    "Sell": "Mit uns verkaufen",
+    "uniq": "Uniq Alpha System",
+    "Seller": "Verkäufer werden",
+    "SellerBlog": "Verkäufer-Blog",
+    "search": "Suche",
+    "ManufacturerAndModel": "Hersteller, Modell",
+    "CityStateOrCountry": "Stadt, Bundesland oder Land",
+    "Company": "Unternehmen"
+  },
+  "Admin": {
+    "yourPhoneNumber": "Ihre Telefonnummer",
+    "login": "Anmelden",
+    "getOtp": "OTP erhalten"
+  },
+
+  "Users": {
+    "name": "Name",
+    "lastName": "Nachname",
+    "email": "E-Mail",
+    "phone": "Telefon",
+    "filter": "Filter",
+    "search": "Suche",
+    "removeFilter": "Filter entfernen",
+    "searchFirstName": "Vorname suchen",
+    "searchLastName": "Nachname suchen",
+    "searchPhone": "Telefonnummer suchen",
+    "searchEmail": "E-Mail suchen"
+  },
+
+  "Toast": {
+    "copyTextSuccess": "Telefonnummer erfolgreich kopiert"
+  },
+
+  "SellerInformation": {
+    "ContactInformation": "Kontaktinformationen",
+    "message": "Nachricht an den Verkäufer"
+  },
+  "SellOnUniq": {
+    "selectPhoto": {
+      "title": "Foto auswählen",
+      "description": "Ein großartiges Bild kann mehr Kunden anziehen! Fügen Sie ein Foto hinzu, um Ihre Anzeige hervorzuheben.",
+      "addPhotosForAd": "Fügen Sie Fotos hinzu, um Ihre Anzeige hervorzuheben",
+      "addPhoto": "Foto hinzufügen"
+    },
+    "ToggleForm": {
+      "title": "Kontakttelefonnummer in der Anzeige verbergen"
+    },
+    "UserType": {
+      "title": "Benutzertyp",
+      "Person": "Person",
+      "Company": "Unternehmen"
+    },
+    "RegisterButtons": {
+      "RegisterAnAd": "Anzeige registrieren",
+      "Edit": "Bearbeiten",
+      "Cancellation": "Abbrechen"
+    },
+    "AdvertisementRegistrationForm": {
+      "AdvertisementRegistration": "Anzeigenregistrierung",
+      "Category": "Kategorie",
+      "AdvertisementTitle": "Anzeigentitel"
+    }
+  },
+  "UserProfile": {
+    "UserProfileItem": {
+      "MyProfile": "Mein Profil",
+      "MyAds": "Meine Anzeige",
+      "MyFavorites": "Meine Lieblingsanzeigen",
+      "Support": "Support",
+      "ResetPass": "Passwort zurücksetzen",
+      "DeleteAccount": "Konto löschen",
+      "LogOut": "Von Konto abmelden"
+    },
+    "MyProfile": {
+      "Add": "Hinzufügen",
+      "Photo": "Foto",
+      "Username": "Benutzername",
+      "Name": "Vorname",
+      "LastName": "Nachname",
+      "DateOfBirth": "Geburtsdatum",
+      "email": "E-Mail",
+      "phoneNumber": "Telefonnummer",
+      "CompanyName": "Firmenname",
+      "Country": "Land",
+      "City": "Stadt",
+      "Address": "Adresse",
+      "zipCode": "Postleitzahl",
+      "submitButton": "Profil aktualisieren",
+      "invalidEmail": "Ungültige E-Mail",
+      "UserNameRequirement": "Benutzername ist erforderlich",
+      "NameRequirement": "Vorname ist erforderlich",
+      "LastNameRequirement": "Nachname ist erforderlich",
+      "EmailRequirement": "E-Mail ist erforderlich",
+      "PhoneRequirement": "Telefonnummer ist erforderlich",
+      "SelectCountry": "Land auswählen",
+      "CityNotFound": "Die Stadt \"{city}\" ist nicht in unserer Liste. Bitte überprüfen Sie die Postleitzahl oder wählen Sie einen anderen Standort.",
+      "SelectCountryHelper": "Wählen Sie ein Land aus, um Ihren Standort einfacher zu finden.",
+      "LocationError": "Fehler beim Abrufen der Standortdaten. Bitte versuchen Sie es erneut.",
+      "SwitchToCompany": {
+        "Button": "Zu Unternehmen wechseln",
+        "Title": "Wechsel zum Unternehmensprofil bestätigen?",
+        "Description": "Der Wechsel zu einem Unternehmensprofil wird Ihren Kontotyp dauerhaft ändern. Sie können nicht zu Ihrem vorherigen Benutzerprofil zurückkehren",
+        "Cancel": "Abbrechen",
+        "Accept": "Akzeptieren"
+      },
+      "EmailVerification": {
+        "NotVerified": "E-Mail nicht verifiziert.",
+        "VerifyNow": "Jetzt verifizieren",
+        "Title": "Verifizieren Sie Ihre E-Mail mit dem gesendeten Code",
+        "VerifyButton": "Jetzt verifizieren",
+        "email": "E-Mail"
+      },
+      "PhoneVerification": {
+        "NotVerified": "Telefonnummer nicht verifiziert.",
+        "VerifyNow": "Jetzt verifizieren",
+        "Title": "Verifizieren Sie Ihre Telefonnummer mit dem gesendeten Code",
+        "VerifyButton": "Jetzt verifizieren",
+        "ResendCode": "Code erneut senden",
+        "ResendCodeTimer": "Code erneut senden ({minutes}:{seconds})"
+      },
+      "BirthDate": {
+        "Placeholder": "Geburtsdatum auswählen",
+        "Label": "Geburtsdatum"
+      },
+      "Validation": {
+        "NameRequired": "Vorname ist erforderlich",
+        "LastNameRequired": "Nachname ist erforderlich",
+        "AddressRequired": "Adresse ist erforderlich",
+        "AddressMinLength": "Die Adresse muss mindestens 5 Zeichen lang sein",
+        "ZipCodeRequired": "Postleitzahl ist erforderlich",
+        "ZipCodeMinLength": "Die Postleitzahl muss mindestens 2 Zeichen lang sein",
+        "ZipCodeNumeric": "Die Postleitzahl darf nur Zahlen enthalten",
+        "BirthDateRequired": "Geburtsdatum ist erforderlich"
+      },
+      "CompanyForm": {
+        "FirstName": "Vorname",
+        "LastName": "Nachname",
+        "JobTitle": "Berufsbezeichnung",
+        "CompanyName": "Firmenname",
+        "Save": "Speichern",
+        "Saving": "Wird gespeichert...",
+        "Side": "Benutzertyp",
+        "Buyer": "Käufer",
+        "Seller": "Verkäufer",
+        "Both": "Beides",
+        "ExtraInformation": "Zusätzliche Informationen",
+        "HowDidYouHearAboutUs": "Wie haben Sie von uns erfahren?",
+        "BrandPriority": "Markenpriorität",
+        "Budget": "Budget",
+        "EquipmentType": "Ausrüstungstyp",
+        "PurchaseSchedule": "Kaufzeitplan",
+        "Suggestions": "Vorschläge",
+        "NewsletterLabel": "Ich möchte Newsletter erhalten",
+        "submitButton": "Profil aktualisieren",
+        "Validation": {
+          "NameRequired": "Vorname ist erforderlich",
+          "LastNameRequired": "Nachname ist erforderlich",
+          "EmailRequired": "E-Mail ist erforderlich",
+          "EmailInvalid": "Ungültiges E-Mail-Format",
+          "PhoneRequired": "Telefonnummer ist erforderlich",
+          "BirthDateRequired": "Geburtsdatum ist erforderlich",
+          "AddressMinLength": "Die Adresse muss mindestens 5 Zeichen lang sein",
+          "ZipCodeRequired": "Postleitzahl ist erforderlich",
+          "ZipCodeMinLength": "Die Postleitzahl muss mindestens 2 Zeichen lang sein",
+          "CityRequired": "Stadt ist erforderlich",
+          "JobTitleRequired": "Berufsbezeichnung ist erforderlich",
+          "CompanyNameRequired": "Firmenname ist erforderlich",
+          "SideRequired": "Bitte wählen Sie Ihre Rolle (Käufer/Verkäufer/Beides)"
+        }
+      }
+    },
+    "MyAds": {
+      "ApprovedAds": "Genehmigt",
+      "RejectedAds": "Abgelehnt",
+      "PendingAds": "Ausstehend",
+      "RemoveModalTitle": "Aus der Liste entfernen",
+      "ModalDescription": "Sind Sie sicher, dass Sie die Anzeige löschen möchten?",
+      "ModalRemoveButton": "Ja, löschen",
+      "ModalCancelButton": "Abbrechen"
+    },
+    "FavoriteAdvertisement": {
+      "FavoriteAdvertisement": "Lieblingsanzeigen",
+      "HaveNotFavoriteAd": "Sie haben derzeit keine Lieblingsanzeigen",
+      "RemoveModalTitle": "Aus der Favoritenliste entfernen",
+      "ModalDescription": "Sind Sie sicher, dass Sie die Anzeige aus der Favoritenliste löschen möchten?",
+      "ModalRemoveButton": "Ja, entfernen",
+      "ModalCancelButton": "Abbrechen"
+    },
+    "Support": {
+      "ContactSupport": "Support kontaktieren",
+      "description": "Teilen Sie Ihre Fragen und Kommentare mit dem Uniq Alpha-Support",
+      "Subject": "Betreff",
+      "SubjectPlaceholder": "Geben Sie den Betreff der Nachricht an",
+      "YourMessage": "Ihre Nachricht",
+      "YourMessagePlaceholder": "Geben Sie Ihre Nachricht ein",
+      "SendButton": "Senden"
+    },
+    "ResetPass": {
+      "ResetPass": "Passwort zurücksetzen",
+      "description": "Ihr Passwort muss mindestens 6 Zeichen enthalten und eine Kombination aus Zahlen, Buchstaben und Sonderzeichen (!$@%) aufweisen.",
+      "CurrentPassword": "Aktuelles Passwort",
+      "NewPassword": "Neues Passwort",
+      "Re-typeNewPassword": "Neues Passwort erneut eingeben",
+      "ForgotPass": "Passwort vergessen?",
+      "LogOutOtherDevicesMessage": "Von anderen Geräten abmelden. Wählen Sie diese Option, wenn jemand anderes Ihr Konto verwendet hat.",
+      "ChangePass": "Passwort ändern"
+    },
+    "DeleteAccount": {
+      "DeleteAccount": "Konto löschen",
+      "PermanentlyDeleteAccount": "Konto dauerhaft löschen",
+      "description": "Es tut uns leid, dass Sie uns verlassen! Bitte lesen Sie vor dem Fortfahren die folgenden wichtigen Informationen sorgfältig durch, um die Folgen dieser Aktion vollständig zu verstehen.",
+      "deletingYourAccountMean": "Was bedeutet es, Ihr Konto zu löschen?",
+      "PermanentDataDeletion": "Dauerhafte Datenlöschung: Alle Ihre persönlichen Daten, einschließlich Benutzername, E-Mail-Adresse, Kontoeinstellungen und damit verbundene Inhalte, werden dauerhaft aus unserem System entfernt.",
+      "LossOfAccess": "Zugriffsverlust: Sobald Ihr Konto gelöscht wurde, haben Sie keinen Zugriff mehr auf Ihr Profil, Ihre Aktivitätsgeschichte, Transaktionen oder gespeicherte Inhalte.",
+      "IrreversibleAction": "Irreversible Aktion: Dieser Prozess ist unumkehrbar, und nach der Bestätigung kann Ihr Konto nicht wiederhergestellt werden.",
+      "ConsiderBeforeDeleting": "Bevor Sie Ihr Konto löschen, bedenken Sie bitte",
+      "SupportHelp": "Wenn Sie Probleme oder Bedenken haben, steht Ihnen unser Support-Team gerne zur Verfügung.",
+      "ContactSupport": "[Support kontaktieren]",
+      "TemporaryDeactivation": "Wenn Sie nur eine Pause benötigen, können Sie Ihr Konto vorübergehend deaktivieren und jederzeit zurückkehren.",
+      "FinalConfirmation": "Endgültige Bestätigung",
+      "ConfirmDeletionMessage": "Indem Sie Ihr Konto löschen, bestätigen Sie, dass Sie die Folgen vollständig verstehen und der dauerhaften Entfernung Ihrer Daten zustimmen.",
+      "ConfirmDeleteCheckbox": "Ja, ich verstehe, dass diese Aktion dauerhaft ist und stimme zu, mein Konto zu löschen.",
+      "DeleteAccountButton": "Konto löschen"
+    }
+  },
+  "SellerProfile": {
+    "AddCommentTitle": "Schreiben Sie Ihre Kommentare über diesen Verkäufer",
+    "AddCommaButton": "Einen Kommentar hinzufügen",
+    "UserComments": "Benutzerkommentare",
+    "UserAdvertisement": "Benutzeranzeige",
+    "LoginRequired": "Bitte melden Sie sich an, um einen Kommentar hinzuzufügen",
+    "SellerAddCommaModal": {
+      "title": "Einen Kommentar hinzufügen",
+      "description": "Ihre Meinung hilft uns und anderen Nutzern, die beste Wahl zu treffen",
+      "WriteYourReview": "Schreiben Sie Ihre Bewertung über den Verkäufer",
+      "TextAreaPlaceHolder": "Beschreibung",
+      "SubmitButton": "Kommentar abgeben"
+    }
+  },
+  "breadcrumbs": {
+    "home": "Startseite",
+    "category": "Kategorie",
+    "profile": "Profil",
+    "sell-on-uniq-alpha": "Verkaufen auf Uniq Alpha",
+    "favorites": "Favoriten"
+  },
+  "Notifications": {
+    "title": "Benachrichtigungen",
+    "UnreadNotifications": "Ungelesene Benachrichtigungen",
+    "ReadNotifications": "Gelesene Benachrichtigungen",
+    "NoNotification": "Keine Benachrichtigungen"
+  }
+}

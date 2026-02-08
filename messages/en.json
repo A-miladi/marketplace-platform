@@ -1,0 +1,391 @@
+{
+  "signin": {
+    "title": "Sign in To Uniq Alpha",
+    "googleButton": "Sign in with Google",
+    "emailButton": "Continue with Email or Phone number",
+    "description": "or",
+    "username": "Username",
+    "password": "Password",
+    "signin": "sign in",
+    "signup": "Sign up",
+    "haveAccount": "Don't have an account?",
+    "signinByEmail": "Sign in by Email",
+    "SignIn": "Sign In",
+    "email": "Email",
+    "enterPassword": "Enter your password.",
+    "requiredEmail": "Email is required",
+    "invalidEmail": "Invalid email",
+    "minPassword": "Password must be at least 8 characters",
+    "requiredPassword": "Family name is required",
+    "forgotPassword": "Forgot password?",
+    "recaptchaRequired": "Please complete the reCAPTCHA verification",
+    "recaptchaNotReady": "reCAPTCHA is not ready yet. Please try again.",
+    "recaptchaError": "There was an error with the reCAPTCHA verification. Please try again."
+  },
+  "signup": {
+    "title": "Sign up To Uniq Alpha",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "requiredName": "First name is required",
+    "requiredLastName": "last name is required",
+    "requiredEmail": "Email is required",
+    "invalidEmail": "Invalid email",
+    "minPassword": "Password must be at least 8 characters",
+    "Email": "Email",
+    "password": "Password",
+    "Privacy": "I agree with UniqAlpha Terms of Service,Privacy Policy and default Notification Settings.",
+    "createAccount": "Create Account",
+    "haveAccount": "Already have an account?",
+    "signin": "signin",
+    "emailButton": "Sign up with Google",
+    "ContinueWithEmailButton": "Continue with Email",
+    "description": "By creating an account you agree with our Terms of Service Privacy Policy, and our default Notification Settings.",
+    "uppercaseAndLowercaseLetters": "Includes uppercase and lowercase letters",
+    "IncludesNumber": "Includes number",
+    "includeSpecialCharacters": "include special characters(@,!,*,...)",
+    "requiredPassword": "Password is required"
+  },
+
+  "forgotPassword": {
+    "title": "Forgot Password ?",
+    "description": "Enter the email address or phone number you used when you  signed up and we'll send you instructions to reset your  password.",
+    "security": "For security reasons, we do not store your password. So rest assured that we will never send your password via email or phone number.",
+    "email": "Email ",
+    "sendResetInstructions": "Send Reset Instructions",
+    "invalidEmail": "Invalid email",
+    "requiredEmail": "Email is required",
+    "request": "Request to reset password send successfully",
+    "back": "Back to home page"
+  },
+  "newPassword": {
+    "title": "New password",
+    "uppercaseAndLowercaseLetters": "Includes uppercase and lowercase letters",
+    "IncludesNumber": "Includes number",
+    "eightCharacters": "Includes at least eight characters",
+    "VerifyButton": "Verify and enter",
+    "newPassword": "New password",
+    "repeatNewPassword": "Repeat the new password",
+    "minPassword": "Password must be at least 8 characters",
+    "requiredPassword": "Password is required",
+    "passwordsDontMatch": "passwords dont match",
+    "includeSpecialCharacters": "include special characters(@,!,*,...)"
+  },
+  "otp": {
+    "subTitle": "Access verification",
+    "title": "Input Your Verification Code",
+    "enterYourCode": "Enter the code",
+    "resendCode": "Resend code",
+    "signinButton": "sign in"
+  },
+
+  "HomePage": {
+    "title": "Hello world!",
+    "about": "Go to the about page",
+    "FrequentlyAskedQuestions": "Frequently Asked Questions"
+  },
+  "AboutPage": {
+    "title": "Learn more about Uniq Alpha",
+    "Introduction": "At  UniqAlpha, we are committed  to connecting  businesses  with highquality  industrial  machinery . Our  platform serves  as  a free online marketplace,enabling you to easily find  the equipment you need and connect with reputable sellers worldwide.",
+    "Categories": "We offer a  wide  range of  categories , including  Machine Tools  Printing ,Test, Lab  & Medical  Equipment, Construction, Material Handling , and  Agriculture, catering to various  industry needs.",
+    "Team": "Our  team consists of experienced professionals who understand the unique  requirements  of our clients, providing  a  secure and efficient platform for buying and selling industrial machinery. ",
+    "Mission": "Our mission is simple:to facilitate the process of buying and  industrial equipment at no cost to our users.",
+    "NumberOfAds": "Number of ads",
+    "Brands": "Brands",
+    "ClosedDeals": "Closed Deals"
+  },
+  "Header": {
+    "login": "Login / Sign Up",
+    "Account": "My account",
+    "Home": "Home",
+    "Advertisement": "Advertisement",
+    "Favorites": "Favorites",
+    "profile": "profile",
+    "search": "Search",
+    "ManufacturerAndModel": "Name or Description",
+    "CityStateOrCountry": "City, State or Country",
+    "Language": "Language",
+    "Category": "Category",
+    "SellOnUniqAlpha": "Sell on UniqAlpha",
+    "Filter": "Filter"
+  },
+  "Hero": {
+    "BuildingTheFutureWith": "Building the Future with",
+    "IndustrialEquipment": "Industrial Equipment",
+    "Provide": "We provide top-quality industrial machinery",
+    "Help": "to help your business grow and succeed."
+  },
+  "Categories": {
+    "Categories": "Categories"
+  },
+  "Advertisement": {
+    "Advertisement": "Advertisement",
+    "ViewAll": "View all"
+  },
+  "AboutUs": {
+    "About": "About",
+    "Us": "Us",
+    "LearnMore": "Learn More"
+  },
+  "ButtonText": {
+    "View": "View"
+  },
+  "Explore": {
+    "Sell": "Sell your machinery",
+    "Fast": "fast-post now",
+    "Explore": "Explore Now"
+  },
+  "Footer": {
+    "About": "About Us",
+    "Contact": "Contact Us",
+    "Blog": "blog",
+    "Testimonials": "Testimonials",
+    "Media": "Media",
+    "Sell": "Sell With Us",
+    "uniq": "Uniq Alpha system",
+    "Seller": "Become a Seller",
+    "SellerBlog": "Seller Blog",
+    "search": "Search",
+    "ManufacturerAndModel": "Manufacturer, Model ",
+    "CityStateOrCountry": "City, State or Country",
+    "Company": "Company"
+  },
+  "Admin": {
+    "yourPhoneNumber": "Your Phone number",
+    "login": "login",
+    "getOtp": "Get Otp"
+  },
+  "Users": {
+    "name": "Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "phone": "Phone",
+    "filter": "Filter",
+    "search": "Search",
+    "removeFilter": "Remove Filter",
+    "searchFirstName": "search first name",
+    "searchLastName": "search last name",
+    "searchPhone": "search phone",
+    "searchEmail": "search email"
+  },
+  "Toast": {
+    "copyTextSuccess": "Phone Copied Successfully"
+  },
+  "SellerInformation": {
+    "ContactInformation": "Contact information",
+    "message": " Message to seller"
+  },
+  "SellOnUniq": {
+    "selectPhoto": {
+      "title": "Select photo",
+      "description": "A great image can attract more customers ! Add a photo to make your ad stand out",
+      "addPhotosForAd": "Add photos to make your ad stand out",
+      "addPhoto": "Add photo"
+    },
+    "ToggleForm": {
+      "title": "Hide the contact number in the ad"
+    },
+    "UserType": {
+      "title": "User type",
+      "Person": "Person",
+      "Company": "Company"
+    },
+    "RegisterButtons": {
+      "RegisterAnAd": "Register an ad",
+      "Edit": "Edit",
+      "Cancellation": "Cancel"
+    },
+    "AdvertisementRegistrationForm": {
+      "AdvertisementRegistration": "Advertisement registration",
+      "Category": "Category",
+      "AdvertisementTitle": "Advertisement title"
+    }
+  },
+  "UserProfile": {
+    "UserProfileItem": {
+      "MyProfile": "My Profile",
+      "MyAds": "My Advertisement",
+      "MyFavorites": "My Favorite Advertisement",
+      "Support": "Support",
+      "ResetPass": "Reset Password",
+      "DeleteAccount": "Delete Account",
+      "LogOut": "Log out of Account"
+    },
+    "MyProfile": {
+      "Add": "Add",
+      "Photo": "photo",
+      "Username": "Username",
+      "Name": "Name",
+      "LastName": "Last name",
+      "DateOfBirth": "Date of birth",
+      "email": "email",
+      "phoneNumber": "phone number",
+      "CompanyName": "Company name",
+      "Country": "Country",
+      "City": "City",
+      "Address": "Address",
+      "zipCode": "zip code",
+      "submitButton": "update profile",
+      "invalidEmail": "Invalid email",
+      "UserNameRequirement": "Username is Requirement",
+      "NameRequirement": "Name is Requirement",
+      "LastNameRequirement": "Last Name is Requirement",
+      "EmailRequirement": "Email is Requirement",
+      "PhoneRequirement": "Phone number is Requirement",
+      "SelectCountry": "Select country",
+      "CityNotFound": "The city \"{city}\" is not in our list. Please check the ZIP code or select a different location.",
+      "SelectCountryHelper": "Select a country to find your location more easily.",
+      "LocationError": "Failed to fetch location data. Please try again.",
+      "SwitchToCompany": {
+        "Button": "Switch to Company",
+        "Title": "Confirm company profile switch?",
+        "Description": "Switching to a company profile will permanently change your account type. You won't be able to revert to your previous user profile",
+        "Cancel": "Cancel",
+        "Accept": "Accept"
+      },
+      "EmailVerification": {
+        "NotVerified": "Email not verified.",
+        "VerifyNow": "Verify now",
+        "Title": "Verify your email with the code sent",
+        "VerifyButton": "Verify now",
+        "email": "Email"
+      },
+      "PhoneVerification": {
+        "NotVerified": "Phone number not verified.",
+        "VerifyNow": "Verify now",
+        "Title": "Verify your phone number with the code sent",
+        "VerifyButton": "Verify now",
+        "ResendCode": "Resend code",
+        "ResendCodeTimer": "Resend code ({minutes}:{seconds})"
+      },
+      "BirthDate": {
+        "Placeholder": "Select birth date",
+        "Label": "Birth date"
+      },
+      "Validation": {
+        "NameRequired": "Name is required",
+        "LastNameRequired": "Last name is required",
+        "AddressRequired": "Address is required",
+        "AddressMinLength": "Address must be at least 5 characters",
+        "ZipCodeRequired": "Zip code is required",
+        "ZipCodeMinLength": "Zip code must be at least 2 characters",
+        "BirthDateRequired": "Birth date is required"
+      },
+      "CompanyForm": {
+        "FirstName": "First Name",
+        "LastName": "Last Name",
+        "JobTitle": "Job Title",
+        "CompanyName": "Company Name",
+        "Save": "Save",
+        "Saving": "Saving...",
+        "Side": "User Type",
+        "Buyer": "Buyer",
+        "Seller": "Seller",
+        "Both": "Both",
+        "ExtraInformation": "Extra Information",
+        "HowDidYouHearAboutUs": "How did you hear about us?",
+        "BrandPriority": "Brand Priority",
+        "Budget": "Budget",
+        "EquipmentType": "Equipment Type",
+        "PurchaseSchedule": "Purchase Schedule",
+        "Suggestions": "Suggestions",
+        "submitButton": "Update Profile",
+        "NewsletterLabel": "I would like to receive newsletters",
+        "Validation": {
+          "NameRequired": "First name is required",
+          "LastNameRequired": "Last name is required",
+          "EmailRequired": "Email is required",
+          "EmailInvalid": "Invalid email format",
+          "PhoneRequired": "Phone number is required",
+          "BirthDateRequired": "Birth date is required",
+          "AddressMinLength": "Address must be at least 5 characters",
+          "ZipCodeRequired": "ZIP code is required",
+          "ZipCodeMinLength": "ZIP code must be at least 2 characters",
+          "CityRequired": "City is required",
+          "JobTitleRequired": "Job title is required",
+          "CompanyNameRequired": "Company name is required",
+          "SideRequired": "Please select your role (Buyer/Seller/Both)"
+        }
+      }
+    },
+    "MyAds": {
+      "ApprovedAds": "Approved",
+      "RejectedAds": "Rejected",
+      "PendingAds": "Pending",
+      "RemoveModalTitle": "Remove from list",
+      "ModalDescription": "Are you sure you want to delete the ad?",
+      "ModalRemoveButton": "Yes, delete",
+      "ModalCancelButton": "Cancel"
+    },
+    "FavoriteAdvertisement": {
+      "FavoriteAdvertisement": "Favorite Advertisement",
+      "HaveNotFavoriteAd": "You currently have no favorite ads",
+      "RemoveModalTitle": "Remove from bookmark list",
+      "ModalDescription": " Are you sure you want to Remove the ad from favorite list?",
+      "ModalRemoveButton": "Yes, Remove it",
+      "ModalCancelButton": "Cancel"
+    },
+    "Support": {
+      "ContactSupport": "Contact Support",
+      "description": "Share your questions and comments with Uniq Alpha support",
+      "Subject": "Subject",
+      "SubjectPlaceholder": "Specify the subject of the message",
+      "YourMessage": "Your Message",
+      "YourMessagePlaceholder": "Enter your message",
+      "SendButton": "Send"
+    },
+    "ResetPass": {
+      "ResetPass": "ResetPass",
+      "description": "Your password must be at least 6 characters and should include a combination of numbers, letters and special characters (!$@%).",
+      "CurrentPassword": "Current Password",
+      "NewPassword": "New Password",
+      "Re-typeNewPassword": "Re-type New Password",
+      "ForgotPass": "Forgot password ?",
+      "LogOutOtherDevicesMessage": "Log out of other devices. Choose this if someone else used your account.",
+      "ChangePass": "Change password"
+    },
+    "DeleteAccount": {
+      "DeleteAccount": "Delete Account",
+      "PermanentlyDeleteAccount": "Permanently Delete Account",
+      "description": "We're sorry to see you go! Before proceeding, please read the following important information carefully to fully understand the consequences of this action.",
+      "deletingYourAccountMean": "What does deleting your account mean?",
+      "PermanentDataDeletion": "Permanent Data Deletion: All your personal data, including username, email address, account settings, and associated content, will be permanently removed from our system.",
+      "LossOfAccess": "Loss of Access: Once your account is deleted, you will no longer have access to your profile, activity history, transactions, or any saved content.",
+      "IrreversibleAction": "Irreversible Action: This process is irreversible, and once confirmed, your account cannot be restored.",
+      "ConsiderBeforeDeleting": "Before you delete your account, please consider",
+      "SupportHelp": "If you're experiencing any issues or concerns, our support team is here to help.",
+      "ContactSupport": "[Contact Support]",
+      "TemporaryDeactivation": "If you just need a break, you can temporarily deactivate your account and return whenever.",
+      "FinalConfirmation": "Final Confirmation",
+      "ConfirmDeletionMessage": "By deleting your account, you confirm that you fully understand the consequences and agree to the permanent removal of your data.",
+      "ConfirmDeleteCheckbox": "Yes, I understand this action is permanent and I agree to delete my account.",
+      "DeleteAccountButton": "Delete Account"
+    }
+  },
+  "SellerProfile": {
+    "AddCommentTitle": "Write your comments about this Seller",
+    "AddCommaButton": "Add a comment",
+    "UserComments": "User comments",
+    "UserAdvertisement": "User Advertisement",
+    "LoginRequired": "Please log in to add a comment",
+    "SellerAddCommaModal": {
+      "title": "Add a comment",
+      "description": "Your opinion helps us and other users make the best choice",
+      "WriteYourReview": "Write your review about the seller",
+      "TextAreaPlaceHolder": "Description",
+      "SubmitButton": "Submit a comment"
+    }
+  },
+  "Notifications": {
+    "title": "Notifications",
+    "UnreadNotifications": "Unread notifications",
+    "ReadNotifications": "Read notifications",
+    "NoNotification": "No notifications available"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "category": "Category",
+    "profile": "Profile",
+    "sell-on-uniq-alpha": "Sell on Uniq Alpha",
+    "favorites": "Favorites"
+  }
+}
